@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.nav-item{
+    @apply h-full items-center justify-center flex  hover:bg-gray-800 w-32 hover:text-white  font-mono;
+
+}
